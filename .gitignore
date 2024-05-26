@@ -1,0 +1,8 @@
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Diretório de dependências do Node.js
+/node_modules
